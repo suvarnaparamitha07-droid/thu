@@ -8,4 +8,5 @@
 - Food Industry and Management, Tunghai University
 
 # Computer Skills
-- ChatGPT
+- open Ai
+
